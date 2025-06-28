@@ -23,7 +23,7 @@ I'm a **Full Stack Developer** passionate about building modern, scalable, and u
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-here)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/patricksagum)
 [![Portfolio](https://img.shields.io/badge/-Visit%20Portfolio-FF5722?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://your-portfolio-link.com)
 
 ---
