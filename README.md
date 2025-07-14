@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Patrick Sagum
 
-I'm a **Full Stack Developer** passionate about building modern, scalable, and user-focused web and mobile applications. I love turning ideas into clean, functional code and learning new technologies along the way.
+I'm a **Full Stack Developer** focused on building scalable, maintainable web and mobile apps using **React**, **React Native**, **Node.js**, and **PostgreSQL**.  
+
+I’ve worked on delivery systems with real-time tracking and map features, and I'm comfortable designing systems, writing clean code, and working in **Agile/Scrum teams** to ship useful features.
+
 
 ---
 
