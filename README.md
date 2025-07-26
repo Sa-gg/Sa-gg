@@ -4,8 +4,6 @@ I'm a **Full Stack Developer** focused on building **scalable**, **maintainable*
 
 I’ve worked on **delivery systems** with real-time tracking and map features, and I'm comfortable designing systems, writing clean code, and working in **Agile/Scrum teams** to ship useful features.
 
-I also explore **Data Automation & Web Scraping** using **Bright Data MCP**, building systems that extract and process web data for intelligent use cases.
-
 Currently learning **Next.js** and **Prisma ORM** to further enhance my backend and full-stack capabilities.
 
 
