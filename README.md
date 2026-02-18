@@ -11,7 +11,7 @@ Currently learning **Next.js** and **Prisma ORM** to further enhance my backend 
 
 ---
 
-## 🛠 Tech Stack
+
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
