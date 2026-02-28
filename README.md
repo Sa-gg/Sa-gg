@@ -33,7 +33,5 @@ Currently learning **Next.js** and **Prisma ORM** to further enhance my backend 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/patricksagum)
 [![Portfolio](https://img.shields.io/badge/-Visit%20Portfolio-FF5722?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://your-portfolio-link.com)
 
----
 
-> “Code is like humor. When you have to explain it, it’s bad.”
 
