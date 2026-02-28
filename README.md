@@ -1,6 +1,6 @@
 # Hi, I'm **Patrick Sagum**
 
-I'm a **Full Stack Developer** focused on building **scalable**, **maintainable** web and mobile apps using **React**, **React Native**, **Node.js**, and **PostgreSQL**.
+I'm a **Full Stack Developer** focused on building **scalable**, **maintainable** web and mobile apps using **React**, **React Native**, **Node.js Express**, and **PostgreSQL**.
 
 I’ve worked on **delivery systems** with real-time tracking and map features, and I'm comfortable designing systems, writing clean code, and working in **Agile/Scrum teams** to ship useful features.
 
